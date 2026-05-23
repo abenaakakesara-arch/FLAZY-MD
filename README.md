@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR-USERNAME/YOUR-REPO/fork">
+<a href="https://github.com/abenaakakesara-arch/FLAZY-MD/tree/main">
 <img src="https://img.shields.io/badge/FORK-REPOSITORY-black?style=for-the-badge&logo=github">
 </a>
 
