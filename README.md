@@ -22,13 +22,15 @@
 
 ---
 
-# 🚀 DEPLOY ON RAILWAY
+# 🚀 DEPLOY TO HEROKU
 
 <div align="center">
 
-<a href="https://railway.com/project/8d5f119f-1de1-4fb9-b72a-b7a5d1110416/service/f2f4ab24-184f-4634-8581-8a2070cdcc9e?environmentId=6eebfe40-a089-43aa-8796-9a3ff40c3d5b">
-<img src="https://railway.app/button.svg">
+<a href="https://heroku.com/deploy?template=https://github.com/abenaakakesara-arch/FLAZY-MD">
+<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
 </a>
+
+</div>
 
 </div>
 
