@@ -10,7 +10,7 @@
 
 ---
 
-# 🍴 FORK THE REPOSITORY
+# FORK THE REPOSITORY
 
 <div align="center">
 
