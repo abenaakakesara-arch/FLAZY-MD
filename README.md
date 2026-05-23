@@ -34,13 +34,15 @@
 
 ---
 
-# 📱 QR SCAN LOGIN
+## 📱 QR SCAN LOGIN
 
 <div align="center">
 
-<a href="https://YOUR-QR-LINK.com">
+<a href="https://github.com/abenaakakesara-arch/FLAZY-MD/agents?author=abenaakakesara-arch">
 <img src="https://img.shields.io/badge/SCAN-QR_CODE-success?style=for-the-badge&logo=whatsapp">
 </a>
+
+</div>
 
 </div>
 
